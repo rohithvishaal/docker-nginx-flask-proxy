@@ -68,3 +68,6 @@ docker-compose up --build
 
 - Frontend: https://localhost
 - Backend (via proxy): https://localhost/api/random-color
+
+### It would look like this if you have set it up correctly
+<img width="1907" height="1009" alt="image" src="https://github.com/user-attachments/assets/21854f7b-24f9-4041-9c74-881d61f4b811" />
